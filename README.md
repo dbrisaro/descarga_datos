@@ -6,5 +6,5 @@ En este repositorio hay notebooks para descargar datos usuales en análisis clim
 
 - [x] Script para descarga
 - [ ] Función para descarga
-- [ ] Lista de variables disponible
+- [x] Lista de variables disponible
 - [ ] Descarga AWS
